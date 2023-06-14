@@ -22,33 +22,33 @@ CREATE TABLE MembershipInfo(
 
 -- #1
 INSERT INTO MembershipInfo([mem_FirstName],[mem_MiddleName], [mem_LastName],[mem_PhoneNumber],[mem_Email],[mem_ExpirationDate],[mem_MemebershipType], [mem_Image])
-VALUES					  ('Esdra', 'María', 'Cerna', '999-999', 'esdracerna@kalipsocoffeshop.com', '12-12-2025', 1,'https://i.ibb.co/9bkZrBc/165423294-retrato-de-una-empleada-pelirroja-sonriente-con-anteojos-y-cabello-peinado-en-mo-o-tocando.webp')
+VALUES					  ('Esdra', 'María', 'Cerna', '999-999', 'esdracerna@hotmail.com', '12-12-2025', 1,'https://i.ibb.co/TLK4n1X/profile2.png')
 GO
 
 -- #2
 INSERT INTO MembershipInfo([mem_FirstName],[mem_MiddleName], [mem_LastName],[mem_PhoneNumber],[mem_Email],[mem_ExpirationDate],[mem_MemebershipType], [mem_Image])
-VALUES					  ('Gustavo', 'E.', 'Lopez', '393-298', 'Gustav999@kalipsocoffeshop.com', '12-12-2027', 2,'https://i.ibb.co/vPW0Vc9/istockphoto-1300972574-170667a.jpg')
+VALUES					  ('Gustavo', 'E.', 'Lopez', '393-298', 'Gustav999@hotmail.com', '12-12-2027', 2,'https://i.ibb.co/GV9ZBpg/profile3.png')
 GO
 
 -- #3
 INSERT INTO MembershipInfo([mem_FirstName],[mem_MiddleName], [mem_LastName],[mem_PhoneNumber],[mem_Email],[mem_ExpirationDate],[mem_MemebershipType], [mem_Image])
-VALUES					  ('Alex', 'E.', 'Castro', '123-123', 'alexE@kalipsocoffeshop.com', '12-12-2024', 3,'https://i.ibb.co/645nDRz/istockphoto-1309328823-612x612.jpg')
+VALUES					  ('Alex', 'E.', 'Castro', '123-123', 'alexE@hotmail.com', '12-12-2024', 3,'https://i.ibb.co/645nDRz/istockphoto-1309328823-612x612.jpg')
 GO
 
 
 -- #4
 INSERT INTO MembershipInfo([mem_FirstName],[mem_MiddleName], [mem_LastName],[mem_PhoneNumber],[mem_Email],[mem_ExpirationDate],[mem_MemebershipType], [mem_Image])
-VALUES					  ('Karla', 'Cecilia', 'Alejandro', '453-889', 'cecimeow@kalipsocoffeshop.com', '12-12-2028', 1,'https://i.ibb.co/SNLcVKG/1673865145388.jpg')
+VALUES					  ('Karla', 'Cecilia', 'Alejandro', '453-889', 'cecimeow@hotmail.com', '12-12-2028', 1,'https://i.ibb.co/SNLcVKG/1673865145388.jpg')
 GO
 
 -- #5
 INSERT INTO MembershipInfo([mem_FirstName],[mem_MiddleName], [mem_LastName],[mem_PhoneNumber],[mem_Email],[mem_ExpirationDate],[mem_MemebershipType], [mem_Image])
-VALUES					  ('Eder', NULL, 'Sánchez', '333-333', 'Sanchez2000@kalipsocoffeshop.com', '12-12-2027', 1,'https://i.ibb.co/mBDgVHr/pexels-photo-5378700.webp')
+VALUES					  ('Eder', NULL, 'Sánchez', '333-333', 'Sanchez2000@hotmail.com', '12-12-2027', 1,'https://i.ibb.co/zsH9PWQ/identificaciones-pasaportes-electronicos-tend-L-o-UPS0-N.jpg')
 GO
 
 -- #6
 INSERT INTO MembershipInfo([mem_FirstName],[mem_MiddleName], [mem_LastName],[mem_PhoneNumber],[mem_Email],[mem_ExpirationDate],[mem_MemebershipType], [mem_Image])
-VALUES					  ('Joselyn', 'Ruby', 'Smith', '901-123', 'jossRsmith@kalipsocoffeshop.com', '01-01-2030', 3,'https://i.ibb.co/zXXctzq/profile.jpg')
+VALUES					  ('Joselyn', 'Ruby', 'Smith', '901-123', 'jossRsmith@hotmail.com', '01-01-2030', 3,'https://i.ibb.co/zXXctzq/profile.jpg')
 GO
 
 
