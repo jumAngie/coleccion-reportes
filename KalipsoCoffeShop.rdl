@@ -128,7 +128,7 @@
               </Paragraph>
             </Paragraphs>
             <rd:DefaultName>mem_PhoneNumber</rd:DefaultName>
-            <Top>73.20492mm</Top>
+            <Top>72.56992mm</Top>
             <Left>58.59992mm</Left>
             <Height>6mm</Height>
             <Width>48.8125mm</Width>
@@ -151,7 +151,11 @@
                 <TextRuns>
                   <TextRun>
                     <Value>=First(Fields!Full_Name.Value, "DataSetMembershipInfo")</Value>
-                    <Style />
+                    <Style>
+                      <FontFamily>Segoe Script</FontFamily>
+                      <FontWeight>Bold</FontWeight>
+                      <Color>#654309</Color>
+                    </Style>
                   </TextRun>
                 </TextRuns>
                 <Style />
@@ -242,6 +246,22 @@
               <PaddingBottom>2pt</PaddingBottom>
             </Style>
           </Textbox>
+          <Image Name="Image2">
+            <Source>External</Source>
+            <Value>=First(Fields!mem_Image.Value, "DataSetMembershipInfo")</Value>
+            <MIMEType>image/png</MIMEType>
+            <Sizing>FitProportional</Sizing>
+            <Top>42.03283mm</Top>
+            <Left>138.9521mm</Left>
+            <Height>15mm</Height>
+            <Width>15mm</Width>
+            <ZIndex>5</ZIndex>
+            <Style>
+              <Border>
+                <Style>None</Style>
+              </Border>
+            </Style>
+          </Image>
         </ReportItems>
         <Height>126.20625mm</Height>
         <Style>
