@@ -6,7 +6,7 @@
     <DataSource Name="DataSource1">
       <ConnectionProperties>
         <DataProvider>SQL</DataProvider>
-        <ConnectString>Data Source=DESKTOP-BSILECU\SQLEXPRESS;Initial Catalog=KalipsoCoffe</ConnectString>
+        <ConnectString>Data Source=DESKTOP-J3T0LDQ\SQLEXPRESS;Initial Catalog=KalipsoCoffe</ConnectString>
         <IntegratedSecurity>true</IntegratedSecurity>
       </ConnectionProperties>
       <rd:SecurityType>Integrated</rd:SecurityType>
